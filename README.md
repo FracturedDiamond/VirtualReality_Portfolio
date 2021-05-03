@@ -3,7 +3,7 @@
 - All projects based on individual chapters of "Unity 2020 Virtual Reality Projects" by John Linowes 
 -----------------------------------------------------------------------------------------------
 
-**Diorama**
+**DIORAMA**
 
 - **_Development_**
 
