@@ -7,15 +7,15 @@
 
 - _Development_
 
-Development project from Chapter 1
+  Development project from Chapter 1
 
-https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
 
 - _Production_
 
-Production project from Chapter 1
+  Production project from Chapter 1
 
-https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Pro.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
