@@ -2,6 +2,8 @@
 
 
 All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John Linowes 
+https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-edition/9781839217333
+
 -----------------------------------------------------------------------------------------------
 
 
