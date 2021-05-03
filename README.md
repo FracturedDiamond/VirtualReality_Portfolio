@@ -83,6 +83,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 -----------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------
+
 **BALLOONS! || Chapter 3**
 
 
@@ -124,6 +126,17 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 **UI SMORGASBORD || Chapter 4**
 
 - **_Development_**
+ 
+  This is the development project from chapter three, where the player can use the balloon gun
+  and make balloons appear, and can then pop the balloons with a throwable ball.
+  
+  _Scene View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116922230-ea44e980-ac09-11eb-82bf-ea41a806405f.png)
+  
+  _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116922242-efa23400-ac09-11eb-9e69-644ea3a22f4c.png)
 
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Dev.exe
 
@@ -131,6 +144,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
   Executable Link: 
 
+-----------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------
 
@@ -147,7 +161,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
   Executable Link: 
 
-
+-----------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------
 
@@ -162,6 +176,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 - **_Production_**
 
   Executable Link: 
+
+-----------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------
 
