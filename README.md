@@ -32,8 +32,8 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 - **_Production_**
 
   Production project from Chapter 2
-
-
+  
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_2_ZombiesVsCyclops_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
