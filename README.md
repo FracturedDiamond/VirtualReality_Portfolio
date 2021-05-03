@@ -2,7 +2,11 @@
 
 **Diorama**
 
-https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_Diorama.exe
+_Development_
+
+https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
+
+_Production_
 
 -----------------------------------------------------------------------------------------------
 
