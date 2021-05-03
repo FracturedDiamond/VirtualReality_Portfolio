@@ -1,6 +1,7 @@
 # Virtual Reality Portfolio // Spring 2021 // Rebecca Kent
 
-- All projects based on individual chapters of "Unity 2020 Virtual Reality Projects" by John Linowes 
+
+All projects based on individual chapters of "Unity 2020 Virtual Reality Projects" by John Linowes 
 -----------------------------------------------------------------------------------------------
 
 **DIORAMA**
