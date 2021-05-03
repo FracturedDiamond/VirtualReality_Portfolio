@@ -14,7 +14,9 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
   This is the development project from chapter one, setting up a simple diorama scene.
   
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/Screencaps/VR_1_Diorama_Dev_01.png
+  ![image](https://user-images.githubusercontent.com/49692399/116902797-6f230980-abf0-11eb-9103-56181254a5c2.png)
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116902827-79dd9e80-abf0-11eb-8181-64e39233c9b3.png)
 
   https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
 
