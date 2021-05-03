@@ -71,14 +71,14 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   For this production, I adjusted the skybox and added more obstacles for the zombie to move around,
   as well as adjusting materials and backgrounds.
   
-  
-  
   _Scene View_
   
-  
+  ![image](https://user-images.githubusercontent.com/49692399/116914356-7b629300-abff-11eb-8084-9af49ae08f81.png)
   
   _Game View_
   
+  ![image](https://user-images.githubusercontent.com/49692399/116914380-83bace00-abff-11eb-85f4-ea6a59b80518.png)
+
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Pro.exe
 
 -----------------------------------------------------------------------------------------------
