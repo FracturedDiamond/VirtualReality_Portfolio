@@ -1,12 +1,19 @@
 # VirtualReality_Portfolio
 
-**Diorama**
+- All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John Linowes - 
+-----------------------------------------------------------------------------------------------
+
+_**Diorama**_
 
 _Development_
+
+Development project from Chapter 1 of 
 
 https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
 
 _Production_
+
+https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
