@@ -44,12 +44,13 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
   Development project from Chapter 3
 
-
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_3_Balloons_Dev.exe
 
 - **_Production_**
 
   Production project from Chapter 3
 
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_3_Balloons_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -59,7 +60,7 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
   Development project from Chapter 4
 
-
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_4_UISmorgasbord_Dev.exe
 
 - **_Production_**
 
