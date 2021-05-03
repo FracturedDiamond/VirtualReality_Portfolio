@@ -7,15 +7,16 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
 **DIORAMA**
 
-- **_Development_**
+- **_Development_** (Chapter 1)
 
-  Development project from Chapter 1
+  This is the development project from chapter one, setting up a simple diorama scene.
 
   https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
 
-- **_Production_**
+- **_Production_** (Chapter 1)
 
-  Production project from Chapter 1
+  For this production, I found a space skybox and an Earth model for the player to stand on,
+  and added some planets and a space ship, removing the ground plane and the photo plane.
 
   https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Pro.exe
 
