@@ -28,6 +28,14 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
   For this production, I found a space skybox and an Earth model for the player to stand on,
   and added some planets and a space ship, removing the ground plane and the photo plane.
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116903806-be1d6e80-abf1-11eb-8040-22c2b7cc582a.png)
+  
+  _Scene View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116903822-c5dd1300-abf1-11eb-913e-b345379c7101.png)
+  
+  _Game View_
 
   https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Pro.exe
 
