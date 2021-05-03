@@ -1,6 +1,6 @@
 # VirtualReality_Portfolio
 
-- All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John Linowes - 
+- All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John Linowes 
 -----------------------------------------------------------------------------------------------
 
 _**Diorama**_
