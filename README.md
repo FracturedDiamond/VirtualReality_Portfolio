@@ -143,7 +143,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 - **_Production_**
 
   For this production, I adjusted the aesthetics for the game, including a fire hydrant for the
-  water stream, and creating a street view.
+  water stream, and creating a street view. I also added instructions for the water control.
   
   _Scene View_
   
