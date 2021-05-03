@@ -87,12 +87,37 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 
 - **_Development_**
+  
+  This is the development project from chapter three, where the player can use the balloon gun
+  and make balloons appear, and can then pop the balloons with a throwable ball.
+  
+  _Scene View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116916586-63404300-ac02-11eb-84bb-c789d7c77af4.png)
+  
+  _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116916603-69362400-ac02-11eb-911d-c555b7c9ea9c.png)
 
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Dev.exe
 
+-----------------------------------------------------------------------------------------------
+
 - **_Production_**
 
+  For this production, I adjusted the aesthetics for the game, with a mirrored floor and pedestal.
+  
+  _Scene View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116916687-84089880-ac02-11eb-8ddd-4eafc5d53079.png)
+  
+  _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116916707-8a971000-ac02-11eb-9d32-a6af218589cb.png)
+
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Pro.exe
+
+-----------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------
 
