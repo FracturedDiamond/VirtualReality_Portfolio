@@ -5,13 +5,13 @@
 
 **Diorama**
 
-- _Development_
+- **_Development_**
 
   Development project from Chapter 1
 
   https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
 
-- _Production_
+- **_Production_**
 
   Production project from Chapter 1
 
