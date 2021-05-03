@@ -142,7 +142,18 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Production_**
 
-  Executable Link: 
+  For this production, I adjusted the aesthetics for the game, including a fire hydrant for the
+  water stream, and creating a street view.
+  
+  _Scene View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116926292-0e56f980-ac0f-11eb-97ef-618b87cb5f4e.png)
+  
+  _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116926307-144cda80-ac0f-11eb-9033-d2ab7da6190c.png)
+  
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
