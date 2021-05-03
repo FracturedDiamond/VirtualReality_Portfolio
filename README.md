@@ -37,7 +37,7 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
 -----------------------------------------------------------------------------------------------
 
-**Balloons!**
+**BALLOONS!**
 
 
 - **_Development_**
@@ -53,7 +53,7 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
 -----------------------------------------------------------------------------------------------
 
-**UI Smorgasbord**
+**UI SMORGASBORD**
 
 - **_Development_**
 
@@ -69,7 +69,7 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
 -----------------------------------------------------------------------------------------------
 
-**Movement**
+**MOVEMENT**
 
 
 - **_Development_**
@@ -86,7 +86,7 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
 -----------------------------------------------------------------------------------------------
 
-**Aesthetics**
+**AESTHETICS**
 
 
 - **_Development_**
@@ -102,7 +102,7 @@ All projects based on chapters of "Unity 2020 Virtual Reality Projects" by John 
 
 -----------------------------------------------------------------------------------------------
 
-**Physics**
+**PHYSICS**
 
 
 - **_Development_**
