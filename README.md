@@ -127,8 +127,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
  
-  This is the development project from chapter three, where the player can use the balloon gun
-  and make balloons appear, and can then pop the balloons with a throwable ball.
+  This is the development project from chapter four, which is an upgraded version of zombies vs.
+  cyclops, with a water hose that can be activated via new UI controls.
   
   _Scene View_
   
