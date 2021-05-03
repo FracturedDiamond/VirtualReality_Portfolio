@@ -22,14 +22,14 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   _Game View_
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Dev.exe
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Dev.exe
 
 - **_Production_**
 
   For this production, I found a space skybox and an Earth model for the player to stand on,
   and added some planets and a space ship, removing the ground plane and the photo plane.
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_1_Diorama_Pro.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -37,11 +37,11 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
   
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_2_ZombiesVsCyclops_Dev.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Dev.exe
   
 - **_Production_**
   
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_2_ZombiesVsCyclops_Pro.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -50,11 +50,11 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_3_Balloons_Dev.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Dev.exe
 
 - **_Production_**
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_3_Balloons_Pro.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/VR_4_UISmorgasbord_Dev.exe
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Dev.exe
 
 - **_Production_**
 
