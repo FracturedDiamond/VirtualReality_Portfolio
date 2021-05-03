@@ -16,13 +16,13 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
   This is the development project from chapter one, setting up a simple diorama scene.
   
-  ![image](https://user-images.githubusercontent.com/49692399/116902797-6f230980-abf0-11eb-9103-56181254a5c2.png)
-  
   _Scene View_
   
-  ![image](https://user-images.githubusercontent.com/49692399/116902827-79dd9e80-abf0-11eb-8181-64e39233c9b3.png)
-  
+  ![image](https://user-images.githubusercontent.com/49692399/116902797-6f230980-abf0-11eb-9103-56181254a5c2.png)
+    
   _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116902827-79dd9e80-abf0-11eb-8181-64e39233c9b3.png)
 
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Dev.exe
   
@@ -33,13 +33,13 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   For this production, I found a space skybox and an Earth model for the player to stand on,
   and added some planets and a space ship, removing the ground plane and the photo plane.
   
-  ![image](https://user-images.githubusercontent.com/49692399/116903806-be1d6e80-abf1-11eb-8040-22c2b7cc582a.png)
-  
   _Scene View_
   
-  ![image](https://user-images.githubusercontent.com/49692399/116903822-c5dd1300-abf1-11eb-913e-b345379c7101.png)
+  ![image](https://user-images.githubusercontent.com/49692399/116903806-be1d6e80-abf1-11eb-8040-22c2b7cc582a.png)
   
   _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116903822-c5dd1300-abf1-11eb-913e-b345379c7101.png)
 
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Pro.exe
 
@@ -50,14 +50,36 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 **ZOMBIES VS CYCLOPS || Chapter 2**
 
 - **_Development_**
+
+  This is the development project from chapter two, where a zombie spawns in random positions and
+  moves towards the target, which is controlled by the player's head movements.
   
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Dev.exe
+  _Scene View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116913473-61748080-abfe-11eb-8fef-7bd1aa4e7617.png)
+  
+  _Game View_
+  
+  ![image](https://user-images.githubusercontent.com/49692399/116913505-6a655200-abfe-11eb-8a84-5e907046c6eb.png)
+  
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Dev.exe
   
   -----------------------------------------------------------------------------------------------
   
 - **_Production_**
+
+  For this production, I adjusted the skybox and added more obstacles for the zombie to move around,
+  as well as adjusting materials and backgrounds.
   
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Pro.exe
+  
+  
+  _Scene View_
+  
+  
+  
+  _Game View_
+  
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -66,11 +88,11 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Dev.exe
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Dev.exe
 
 - **_Production_**
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Pro.exe
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -78,11 +100,11 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Dev.exe
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Dev.exe
 
 - **_Production_**
 
-
+  Executable Link: 
 
 
 -----------------------------------------------------------------------------------------------
@@ -92,13 +114,13 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  Development project from Chapter 5
+  Executable Link: 
 
 
 
 - **_Production_**
 
-  Production project from Chapter 5
+  Executable Link: 
 
 
 
@@ -109,10 +131,12 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
+  Executable Link: 
 
 
 - **_Production_**
 
+  Executable Link: 
 
 -----------------------------------------------------------------------------------------------
 
@@ -121,9 +145,11 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
+  Executable Link: 
+
 
 
 
 - **_Production_**
 
-
+  Executable Link: 
