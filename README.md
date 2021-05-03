@@ -14,7 +14,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  This is the development project from chapter one, setting up a simple diorama scene.
+  This is the development project from chapter one, setting up a simple diorama scene. The player
+  can just look around, no other implementation as of yet.
   
   _Scene View_
   
@@ -52,7 +53,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 - **_Development_**
 
   This is the development project from chapter two, where a zombie spawns in random positions and
-  moves towards the target, which is controlled by the player's head movements.
+  moves towards the target, which is controlled by the player's head movements. If the player stays
+  looking at the zombie for long enough, the zombie explodes!
   
   _Scene View_
   
@@ -91,7 +93,10 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 - **_Development_**
   
   This is the development project from chapter three, where the player can use the balloon gun
-  and make balloons appear, and can then pop the balloons with a throwable ball.
+  and make balloons appear, and can then pop the balloons with a throwable ball. The player can
+  pick up the balloon gun by reaching for it and grabbing it with the hand controls, and then
+  can click and hold to blow up a balloon, and release to let it fly! Throw the ball at the balloons
+  to pop them.
   
   _Scene View_
   
@@ -128,7 +133,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 - **_Development_**
  
   This is the development project from chapter four, which is an upgraded version of zombies vs.
-  cyclops, with a water hose that can be activated via new UI controls.
+  cyclops, with a water hose that can be activated via new UI controls. Tap the arm controls (on
+  the left arm) to toggle the water on and off.
   
   _Scene View_
   
