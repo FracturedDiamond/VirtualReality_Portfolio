@@ -7,6 +7,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 -----------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------
+
 
 **DIORAMA || Chapter 1**
 
@@ -23,6 +25,8 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   _Game View_
 
   Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Dev.exe
+  
+  -----------------------------------------------------------------------------------------------
 
 - **_Production_**
 
@@ -41,11 +45,15 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 -----------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------
+
 **ZOMBIES VS CYCLOPS || Chapter 2**
 
 - **_Development_**
   
   https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Dev.exe
+  
+  -----------------------------------------------------------------------------------------------
   
 - **_Production_**
   
