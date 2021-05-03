@@ -37,7 +37,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   _Game View_
 
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Pro.exe
+  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
