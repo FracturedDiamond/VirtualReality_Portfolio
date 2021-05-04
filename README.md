@@ -25,7 +25,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116902827-79dd9e80-abf0-11eb-8181-64e39233c9b3.png)
 
-
+  https://scionglobe.itch.io/diorama-development
   
   -----------------------------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116913688-a1d3fe80-abfe-11eb-9b5e-9c0b477525f8.png)
 
-
+  https://scionglobe.itch.io/diorama-production
 
 -----------------------------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116913505-6a655200-abfe-11eb-8a84-5e907046c6eb.png)
   
-
+  https://scionglobe.itch.io/zombies-versus-cyclops-development
   
   -----------------------------------------------------------------------------------------------
   
@@ -81,6 +81,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116914380-83bace00-abff-11eb-85f4-ea6a59b80518.png)
 
+  https://scionglobe.itch.io/zombies-versus-cyclops-production
 
 -----------------------------------------------------------------------------------------------
 
@@ -105,6 +106,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116916603-69362400-ac02-11eb-911d-c555b7c9ea9c.png)
 
+  https://scionglobe.itch.io/balloons-development
 
 -----------------------------------------------------------------------------------------------
 
@@ -120,7 +122,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116916707-8a971000-ac02-11eb-9d32-a6af218589cb.png)
 
-
+  https://scionglobe.itch.io/balloons-production
 
 -----------------------------------------------------------------------------------------------
 
@@ -142,7 +144,9 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116922242-efa23400-ac09-11eb-9e69-644ea3a22f4c.png)
 
-
+  https://scionglobe.itch.io/ui-smorgasbord-development
+  
+  -----------------------------------------------------------------------------------------------
 
 - **_Production_**
 
@@ -157,7 +161,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116926307-144cda80-ac0f-11eb-9033-d2ab7da6190c.png)
   
-
+  https://scionglobe.itch.io/ui-smorgasbord-production
 
 -----------------------------------------------------------------------------------------------
 
@@ -168,43 +172,17 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 
 - **_Development_**
 
-  Executable Links:
+  This is the development project for chapter 5, where we experiment with multiple movement types
+  in VR, including Gliding, Climbing, Locomotion, and Teleportation.
+
+  https://scionglobe.itch.io/movement-development
+
+  -----------------------------------------------------------------------------------------------
 
 - **_Production_**
 
-  Executable Links:
+  For this production I adjusted the aesthetics into a snowy world, using an ice axe for climbing,
+  and adding snowmen and ice.
 
+  https://scionglobe.itch.io/movement-production
 
------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------
-
-**AESTHETICS || Chapter 6**
-
-
-- **_Development_**
-
-  Executable Link: 
-
-
-- **_Production_**
-
-  Executable Link: 
-
------------------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------------------
-
-**PHYSICS || Chapter 7**
-
-
-- **_Development_**
-
-  Executable Link: 
-
-
-
-
-- **_Production_**
-
-  Executable Link: 
