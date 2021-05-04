@@ -25,7 +25,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116902827-79dd9e80-abf0-11eb-8181-64e39233c9b3.png)
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Dev.exe
+
   
   -----------------------------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116913688-a1d3fe80-abfe-11eb-9b5e-9c0b477525f8.png)
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_1_Diorama_Pro.exe
+
 
 -----------------------------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116913505-6a655200-abfe-11eb-8a84-5e907046c6eb.png)
   
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Dev.exe
+
   
   -----------------------------------------------------------------------------------------------
   
@@ -81,7 +81,6 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116914380-83bace00-abff-11eb-85f4-ea6a59b80518.png)
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_2_ZombiesVsCyclops_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -106,7 +105,6 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116916603-69362400-ac02-11eb-911d-c555b7c9ea9c.png)
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Dev.exe
 
 -----------------------------------------------------------------------------------------------
 
@@ -122,7 +120,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116916707-8a971000-ac02-11eb-9d32-a6af218589cb.png)
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_3_Balloons_Pro.exe
+
 
 -----------------------------------------------------------------------------------------------
 
@@ -144,7 +142,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116922242-efa23400-ac09-11eb-9e69-644ea3a22f4c.png)
 
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Dev.exe
+
 
 - **_Production_**
 
@@ -159,7 +157,7 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
   ![image](https://user-images.githubusercontent.com/49692399/116926307-144cda80-ac0f-11eb-9033-d2ab7da6190c.png)
   
-  Executable Link: https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_4_UISmorgasbord_Pro.exe
+
 
 -----------------------------------------------------------------------------------------------
 
@@ -171,26 +169,11 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
 - **_Development_**
 
   Executable Links:
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveGlide_Dev.exe
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveClimb_Dev.exe
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveLocomotion_Dev.exe
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveTeleportation_Dev.exe
-  
+
 - **_Production_**
 
   Executable Links:
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveGlide_Pro.exe
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveClimb_Pro.exe
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveLocomotion_Pro.exe
-  
-  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveTeleportation_Pro.exe
+
 
 -----------------------------------------------------------------------------------------------
 
