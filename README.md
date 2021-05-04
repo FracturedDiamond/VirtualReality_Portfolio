@@ -182,7 +182,15 @@ https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-editi
   
 - **_Production_**
 
-  Executable Link: 
+  Executable Links:
+  
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveGlide_Pro.exe
+  
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveClimb_Pro.exe
+  
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveLocomotion_Pro.exe
+  
+  https://github.com/FracturedDiamond/VirtualReality_Portfolio/blob/main/EXEs/VR_5_MoveTeleportation_Pro.exe
 
 -----------------------------------------------------------------------------------------------
 
